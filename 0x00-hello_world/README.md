@@ -1,1 +1,1 @@
-My first C programming readme
+0x00. C - Hello, World
